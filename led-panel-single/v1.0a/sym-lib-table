@@ -17,5 +17,4 @@
   (lib (name "pkl_conn")(type "Legacy")(uri "${KIPRJMOD}/../../lib/pkl/pkl_conn.lib")(options "")(descr ""))
   (lib (name "pkl_analog_devices")(type "Legacy")(uri "${KIPRJMOD}/../../lib/pkl/pkl_analog_devices.lib")(options "")(descr ""))
   (lib (name "pkl_st")(type "Legacy")(uri "${KIPRJMOD}/../../lib/pkl/pkl_st.lib")(options "")(descr ""))
-  (lib (name "led-panel-single-rescue")(type "Legacy")(uri "${KIPRJMOD}/led-panel-single-rescue.lib")(options "")(descr ""))
 )
